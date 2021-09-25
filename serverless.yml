@@ -1,4 +1,4 @@
-service: serverless-http-api-dynamodb-sabado25-cajecasu
+service: serverless-http-api-dynamodb-cjcs
 frameworkVersion: '2'
 
 provider:
